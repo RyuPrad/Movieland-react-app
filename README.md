@@ -1,3 +1,3 @@
 Website URL: https://ryuprad.github.io/movieland-react-app/
 
-Tech stack: React JS, OMDb API
+Tech used: HTML, CSS, Javascript, React JS, OMDb API
